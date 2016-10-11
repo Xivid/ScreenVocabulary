@@ -1,0 +1,9 @@
+D:\Projects\ScreenVocabulary\ScreenVocabulary\bin\Debug\ScreenVocabulary.exe.config
+D:\Projects\ScreenVocabulary\ScreenVocabulary\bin\Debug\ScreenVocabulary.exe
+D:\Projects\ScreenVocabulary\ScreenVocabulary\bin\Debug\ScreenVocabulary.pdb
+D:\Projects\ScreenVocabulary\ScreenVocabulary\obj\Debug\ScreenVocabulary.csprojResolveAssemblyReference.cache
+D:\Projects\ScreenVocabulary\ScreenVocabulary\obj\Debug\ScreenVocabulary.Properties.Resources.resources
+D:\Projects\ScreenVocabulary\ScreenVocabulary\obj\Debug\ScreenVocabulary.csproj.GenerateResource.Cache
+D:\Projects\ScreenVocabulary\ScreenVocabulary\obj\Debug\ScreenVocabulary.exe
+D:\Projects\ScreenVocabulary\ScreenVocabulary\obj\Debug\ScreenVocabulary.pdb
+D:\Projects\ScreenVocabulary\ScreenVocabulary\obj\Debug\ScreenVocabulary.ScreenVocabulary.resources
